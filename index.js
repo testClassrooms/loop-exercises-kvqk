@@ -65,11 +65,7 @@ for (n2 = 0; n2 <= 10; n2++) {
 }
 
 for (let grade = 60; grade <= 100; grade++) {
-  //   if ((grade = 60 <= 69)) {
-  //     console.log("You got a D");
-  //   } else if ((grade = 70 <= 79)) {
-  //     console.log("you got a C");
-  //   }
+
 }
 /*let grade = 59;
 if (grade <= 59) {
